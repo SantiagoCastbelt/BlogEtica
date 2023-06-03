@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(240, 189, 126);
+    background-image: url('../recursos/fondo\ 1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+
+
+
+h1 {
+    
+    
+    text-align: center;
+    margin: auto;
+    padding: auto;
+}
+
+.hoja1 {
+
+    display: flex;
+    margin: 40px;
+    justify-content: center;
+}
+.hoja2{
+    
+    display:grid;
+    margin: 40px;
+    justify-content: left;
+    text-align: justify;
+    width: 100px;
+   
+
+}
+.texto1{
+    background-color: rgb(252, 252, 252);
+    padding: auto;;
+}
+.texto2{
+    background-color: rgb(252, 252, 252);
+    padding: auto;;
+}
+.texto3{
+    background-color: rgb(252, 252, 252);
+    padding: auto;;
+}
+.texto4{
+    background-color: rgb(252, 252, 252);
+    padding: auto;;
+}
+.video {
+
+    max-width: 600px;
+    max-height: 600px;
+   
+}
+.textCamp{
+    background-color: rgb(252, 252, 252);
+    padding: auto;;
+    text-align: justify;
+}
