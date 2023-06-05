@@ -60,3 +60,24 @@ h1 {
     padding: auto;;
     text-align: justify;
 }
+.Infografia{
+
+    display: flex;
+     margin: 30px;
+     justify-content: center;
+}
+.historieta{
+    display: flex;
+     margin: 30px;
+     justify-content: center;
+     width: 600px;
+     height: 400px;
+}
+
+.contenedor-etico{
+
+    display: grid;
+    justify-content:center;
+    justify-items: center;
+
+}
